@@ -1,2 +1,2 @@
-# https---github.com-JaiylonTheCoder-todo-react-mongo
-Todo application built using the MERN stack.
+JaiylonTheCoder-todo-react-mongo
+Todo application was built using the MERN stack.
